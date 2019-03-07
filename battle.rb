@@ -1,5 +1,5 @@
 require './aa'
-require './moji_ru'
+require './module'
 
   my_hp = 20000
   enemy_hp = 0
