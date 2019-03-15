@@ -1,4 +1,4 @@
-# github-1
+# How to play - battle game -
 how to play
 clone this repo.move directry to the place you put this file.
 in terminal, ruby battle.rb
